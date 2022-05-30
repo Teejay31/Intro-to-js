@@ -2,7 +2,6 @@
 document.getElementById("center").style.Width = "25%";
 document.getElementById("center").style.Height= "60vh";
 document.getElementById("center").style.margin = "auto";
-document.getElementById("center").style.backgroundColor = "rgb(39, 39, 226)";
 document.querySelector("#center").style.borderRadius = "10px";
 document.querySelector("#center").style.color = "white";
 document.querySelector("#center").style.fontSize = "25px";
