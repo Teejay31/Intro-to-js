@@ -17,34 +17,33 @@ body{
     text-align: center;
     background: yellowgreen;
     color:darkgreen ;
-    width: 40%;
+    min-width: 40%;
     margin: auto;
-    padding: 15px;
-    font-size: 30px;
+    padding: 12px;
+    font-size: 20px;
     font-weight:600;
-    text-align: center;
     margin-bottom: 10px;
-    border-radius: 50%;
+    border-radius: %;
 }
 
 .center-c {
-    background-image: url(../js/xxx.webp);
+    background-image: url(../java-task/imag.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
 
 .flex {
-    display: flex;
-    flex-wrap: wrap;
+    display:;
+    flex-wrap: ;
     justify-content: space-between;
 }
 
 #member1, #member2, #member3, #member4, #member5, #member6, #member7, #member8, #member9 {
-    width: 33%;
-    padding: 10px;
+    width: 100%;
+    padding: 5px;
     background-color: rgba(25, 50, 20, 0.5);
-    margin-bottom: 16px;
+    margin-bottom: 2px;
 }
 
 #member1:hover, #member2:hover, #member3:hover, #member4:hover, #member5:hover, #member6:hover, #member7:hover, #member8:hover, #member9:hover {
