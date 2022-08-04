@@ -1,3 +1,5 @@
+window.alert("welcome to my page")
+
 // Question 1
 document.getElementById("center").style.Width = "25%";
 document.getElementById("center").style.Height= "60vh";
@@ -6,6 +8,7 @@ document.querySelector("#center").style.borderRadius = "10px";
 document.querySelector("#center").style.color = "white";
 document.querySelector("#center").style.fontSize = "25px";
 document.querySelector("#center").style.padding = "15px";
+document.getElementById("center").style.backgroundImage = "url(img/imag.png)";
 
 
 let teamName = "Zeus";
@@ -25,7 +28,7 @@ document.getElementById("member9").innerHTML = "9: " + memberName[8];
 
 // Question 2
 let teamMember = [ "Simple_Soul", "Tolu", "Luchi", "Hayj", "Oreoluwa", "Etinosa", "Mavdavis", "Khalid", "TJ"];
-console.log(teamMember[0]);
+console.log(teamMember[8]);
 
 // Question 3
 const zeus = {

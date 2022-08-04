@@ -25,17 +25,6 @@ body{
     margin-bottom: 10px;
 }
 
-.center-c {
-    background-image: url(imag.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-.flex {
-    justify-content: space-between;
-}
-
 #member1, #member2, #member3, #member4, #member5, #member6, #member7, #member8, #member9 {
     width: 100%;
     padding: 5px;
